@@ -122,9 +122,6 @@ html {
         width: 60%;
         line-height: 1.5;
         z-index: 99%;
-        vertical-align: middle; 
-        display: inline-block;
-        overflow: hidden; 
     }
 
 
